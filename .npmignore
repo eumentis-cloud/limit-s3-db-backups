@@ -136,3 +136,4 @@ gen
 .nfs*
 
 HELP.md
+.editorconfig
