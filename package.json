@@ -1,0 +1,8 @@
+{
+  "name": "@eumentis-cloud/limit-s3-db-backups",
+  "version": "1.0.0",
+  "description": "Package to limit the DB backups to be stored in a project DB backup bucket.",
+  "main": "index.js",
+  "author": "Pawan Samdani",
+  "license": "MIT"
+}
