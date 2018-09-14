@@ -12,5 +12,14 @@
   "bugs": {
     "url": "https://github.com/eumentis-cloud/limit-s3-db-backups/issues"
   },
-  "homepage": "https://github.com/eumentis-cloud/limit-s3-db-backups#readme"
+  "homepage": "https://github.com/eumentis-cloud/limit-s3-db-backups#readme",
+  "dependencies": {
+    "aws-sdk": "^2.315.0",
+    "chalk": "^2.4.1",
+    "commander": "^2.18.0",
+    "lodash": "^4.17.11"
+  },
+  "bin": {
+    "ecLimitS3DbBackups": "./index.js"
+  }
 }
